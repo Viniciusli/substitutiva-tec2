@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define CAPACIDADE_VOO 10
-#define ITENS 2 // TODO trocar pra 20
+#define ITENS 20
 
 typedef struct Voo
 {
